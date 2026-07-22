@@ -1,7 +1,7 @@
 
 This repository contains supplementary materials for the manuscript:
 
-> **A Data-Driven Global Health Classification for Dairy Cows Using Milk Mid-Infrared Spectra and Machine Learning**  
+> **A Data-Driven Physiological Profiles Classification for Dairy Cows Using Milk Mid-Infrared Spectra and Machine Learning**  
 > Chen et al.
 
 The files provide additional methods, figures, sensitivity analyses, and model-evaluation results for the unsupervised clustering of milk mid-infrared (MIR)-related traits and the supervised reconstruction of the resulting cluster labels.
