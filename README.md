@@ -10,7 +10,7 @@ The files provide additional methods, figures, sensitivity analyses, and model-e
 
 ### 1. Supplementary methods and figures
 
-[`Supplemental_file_S1_Supplemently_Unsupervised_learning_and_Supervsied_learing_using_MIR.docx`](Supplemental_file_S1_Supplemently_Unsupervised_learning_and_Supervsied_learing_using_MIR.docx) (1.02 MiB)
+[`Supplemental_file_S1_Supplemently_Unsupervised_learning_and_Supervsied_learing_using_MIR.pdf`](Supplemental_file_S1_Supplemently_Unsupervised_learning_and_Supervsied_learing_using_MIR.pdf) (1.17 MiB)
 
 This Word document contains two groups of supplementary analyses:
 
