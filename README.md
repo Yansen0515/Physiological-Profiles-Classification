@@ -12,7 +12,7 @@ The files provide additional methods, figures, sensitivity analyses, and model-e
 
 [`Supplemental_file_S1_Supplemently_Unsupervised_learning_and_Supervsied_learing_using_MIR.pdf`](Supplemental_file_S1_Supplemently_Unsupervised_learning_and_Supervsied_learing_using_MIR.pdf) (1.17 MiB)
 
-This Word document contains two groups of supplementary analyses:
+This PDF document contains two groups of supplementary analyses:
 
 - **Unsupervised learning:** evaluation of the selected number of clusters (`K = 2-6`), comparison of Ward.D2 hierarchical clustering with k-means, sensitivity to removing two highly correlated traits, and reproducibility across cow- and herd-grouped subsets.
 - **Supervised learning:** evaluation of random forest (RF) and partial least squares discriminant analysis (PLS-DA) models trained to reconstruct the three unsupervised cluster labels directly from MIR spectra, including record-, cow-, and herd-grouped cross-validation.
@@ -55,7 +55,7 @@ This Excel workbook provides consolidated performance metrics and stratified res
 
 ## How to use these files
 
-1. Start with the Word document for the analytical rationale, methods, supplementary figures, and interpretation.
+1. Start with the PDF document for the analytical rationale, methods, supplementary figures, and interpretation.
 2. Open the Excel workbook and begin with the `Summary` worksheet.
 3. Use `Model_Overall`, `Cluster_Metrics`, and `RF_vs_PLS` for the main model comparisons.
 4. Use the fold-level, breed-level, and stratification worksheets for detailed inspection and secondary analyses.
